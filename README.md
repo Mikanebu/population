@@ -13,6 +13,21 @@ Secretariat of the Pacific Community: Statistics and Demography Programme, and
 
 [wb]: http://data.worldbank.org/indicator/SP.POP.TOTL
 
+## Table
+
+<Table 
+    url="https://raw.githubusercontent.com/Mikanebu/population/main/data/population.csv" 
+/>
+
+## Chart
+
+<LineChart
+    title="UK Population since 1960 from World Bank"
+    xAxis="Year"
+    yAxis="Value"
+    data="https://raw.githubusercontent.com/Mikanebu/population/main/data/population.csv"
+/>
+
 ## License
 
 This Data Package is licensed by its maintainers under the [Public Domain Dedication and License (PDDL)](http://opendatacommons.org/licenses/pddl/1.0/).
